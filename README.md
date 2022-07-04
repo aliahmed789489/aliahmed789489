@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliahmed789489
-- 👀 I’m interested in Python Data Science 
-- 🌱 I’m currently learning Data Science 
+- 👀 I’m interested in Python and Web Developement as well 
+- 🌱 I’m currently learning Web developement 
 
 
 <!---
